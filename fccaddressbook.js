@@ -29,7 +29,6 @@ var contacts = [
 
 function lookUpProfile(name, prop) {
   // Only change code below this line
-    let returnPhrase;
 
     for (let i = 0; i < contacts.length; i++) {
         console.log(i);
